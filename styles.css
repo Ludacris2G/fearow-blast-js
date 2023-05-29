@@ -1,5 +1,5 @@
 body {
-    /* background-image: url('./images/background.jpg'); */
+    background-image: url('./images/background.jpg');
     height: 100vh;
     width: 100vw;
     overflow: hidden;
@@ -17,5 +17,5 @@ body {
 }
 
 #collision-canvas {
-    /* background-color: steelblue; */
+    opacity: 0;
 }
