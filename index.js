@@ -13,7 +13,8 @@ let fearowInterval = 500;
 let lastTime = 0;
 let score = 0;
 ctx.font = '50px Impact';
-
+// test
+const test = 0;
 
 let fearows = [];
 class Fearow {
